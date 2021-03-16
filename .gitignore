@@ -3,3 +3,9 @@
 ################################################################################
 
 /MemeSaver/memes
+/MemeSaver/bin
+/MemeSaver/token.txt
+/MemeSaver/config.txt
+/MemeSaver/.vs/MemeSaver
+/MemeSaver/obj
+/MemeSaver/Properties
